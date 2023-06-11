@@ -10,7 +10,7 @@
 using namespace std;
 using ll=long long;
 
-// Input file can be modified, nut trying to keep this pure
+// Input file can be modified, but trying to keep this pure
 
 int main(){
     int i=0;
