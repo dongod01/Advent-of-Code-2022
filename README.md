@@ -11,5 +11,5 @@ To get the puzzle output:
     ( {year} is 2022 as of now, {day} goes from 1 to 25 and {problem} is 1 or 2. Eg g++ 2022/12_p1.cpp and 2022/test12.txt)
 
 <!-- begin-year-badge -->
-[![](https://img.shields.io/badge/2022-26%20stars-56721f)](./advent/aoc2022)
+[![](https://img.shields.io/badge/2022-26%20stars-56721f)](./2022)
 <!-- end-year-badge -->
